@@ -43,17 +43,29 @@ RavenDB forum
 DDD/CQRS forum
 
 ***
+## Golden Hammer!
+***
 ## Replication
+***
 ## ETL
-## Queries
+***
+## Create RBAR database interactions
+***
 ## Scale out slow web service
-## Async Commands 
+***
+## Queries
+***
+## Async Commands from UI 
+***
 ## ICallback
+***
 ## One messages project
+***
 ## One handlers project
-## Saga Doing Work
-## Saga fanout reply
-## Fat Events
-## Assume DTC is a panacea
-## Simulate Priority
-## Force RBAR Database interactions
+***
+## Saga fanout / reply
+***
+## None of this is gospel
+***
+## Discuss
+
