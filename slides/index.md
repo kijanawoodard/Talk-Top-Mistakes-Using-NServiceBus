@@ -51,6 +51,12 @@ DDD/CQRS forum
 ***
 ## Create RBAR database interactions
 ***
+## High volume low value messages
+***
+## Messages that are too fine grained 
+***
+## Messages that are too coarse grained 
+***
 ## Scale out slow web service
 ***
 ## Queries
